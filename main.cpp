@@ -6,7 +6,7 @@ void g() {
 }
 
 void f() {
-    std::cout << "F" << std::endl;
+    std::cout << "F12345" << std::endl;
 }
 
 int main() {
